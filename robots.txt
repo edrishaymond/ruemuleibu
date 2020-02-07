@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://eiquiwaug.coldstone.fun/sitemap.xml
